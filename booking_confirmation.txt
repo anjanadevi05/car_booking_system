@@ -1,0 +1,13 @@
+*************************************
+********** BOOKING CONFIRMED **********
+*************************************
+
+
+Name:null
+Car Type Booked:1
+Car no:1
+Pickup Location:A
+Destination:F
+Time:08:10
+Total Amount:1010.0
+*************************************
